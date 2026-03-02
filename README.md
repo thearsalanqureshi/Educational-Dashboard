@@ -1,4 +1,4 @@
-# Dashboard
+# Educational Dashboard
 A Flutter-based educational administration dashboard prototype featuring three core screens: Dashboard (analytics), Courses (content management), and Profile (settings). The prototype demonstrates a clean, data-rich interface for educators or administrators to monitor course progress, student engagement, and platform metrics.
 
 ## **Tech Stack**
