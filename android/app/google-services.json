@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124577898322",
+    "project_id": "dashboard-a230b",
+    "storage_bucket": "dashboard-a230b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124577898322:android:45dbcf2d15896a5a2a648b",
+        "android_client_info": {
+          "package_name": "com.company.dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9m3ZV-XeFhEiCELR2h_L0IWVE0L5wbaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124577898322:android:4364c670b2ef9b222a648b",
+        "android_client_info": {
+          "package_name": "com.mycompany.dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9m3ZV-XeFhEiCELR2h_L0IWVE0L5wbaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
